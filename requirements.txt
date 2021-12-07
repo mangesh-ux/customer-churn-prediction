@@ -1,0 +1,7 @@
+jupyter
+pandas
+sklearn
+missingno
+plotly
+flask
+streamlit
