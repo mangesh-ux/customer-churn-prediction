@@ -51,7 +51,7 @@ Or a simple flask app
  - The performance is found to be good with maximum accuracy of 91% with RandomForest and Gradient Boosting classifier
  ![roc_curve](https://imgur.com/ZMVHbyd.png)
  - We pickle the randomforest to make it reusable in an app
- - Finally, we create an app with streamlit and/or flask that takes data as input perform featurization an use our serialised model to make predictions and give output as whether the customer will churn or not
+ - Finally, we create an app with streamlit and/or flask that takes data as input perform featurization and use our serialised model to make predictions and give output as whether the customer will churn or not
 
 
 ## Demo
