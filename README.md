@@ -49,7 +49,6 @@ Or a simple flask app
  - we also pickle standardization scalar object that is fitted on X_train to perform transformation on unseen data
  - For model building and evaluation, we load these data and run them with different algorithms.
  - The performance is found to be good with maximum accuracy of 91% with randomforest and gradientbossting classifier
- 
  ![roc_curve](https://imgur.com/ZMVHbyd.png)
  - We pickle the randomforest to make it reusable in an app
  - Finally, we create an app with streamlit and/or flask that takes data as input perform featurization an use our serialised model to make predictions and give output as whether the customer will churn or not
