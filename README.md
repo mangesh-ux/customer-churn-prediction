@@ -1,7 +1,7 @@
 
 # Customer Churn Prediction
 
-This application predicts whether a customer will churn based on data of a subscription based video watching platform.
+This end to end Data Science project predicts whether a customer will churn based on data of a subscription based video watching platform.
 
 
 ## How to run the app?
